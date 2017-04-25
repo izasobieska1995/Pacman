@@ -1,0 +1,7 @@
+Sterowanie odbywa sie z wykorzystaniem klawiszy strzalek. 
+Odpowiednia strzalka powoduje przesuniecie sie Pac-Mana: 
+< w lewo, > w prawo, ^ w gore v w dol.
+
+Przemieszczanie sie bohatera w danym kierunku nastepuje do 
+momentu napotkania na sciane labiryntu, badz wcisniecia 
+innego klawisza sterujacego.
